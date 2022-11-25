@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate Software developer and Linux enthusiast from India</h3>
 
-- 🔭 I’m currently working on **Blockchainvote**
+- 🔭 I’m currently working on **order management system**
 
 - 🌱 I’m currently learning **Spring boot,Mongodb, Oms**
 
-- 💬 Ask me about **Java, SQL and Linux**
+- 💬 Ask me about **c++,Java, SQL,spring boot and Linux**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
