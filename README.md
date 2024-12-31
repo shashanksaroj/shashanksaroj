@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shashank</h1>
 <h3 align="center">A passionate Software developer and Linux enthusiast from India</h3>
 
-- 🔭 I’m currently working on **order management system**
+- 🔭 I’m currently working on **Warehouse management system**
 
-- 🌱 I’m currently learning **Spring boot,Mongodb, Oms**
+- 🌱 I’m currently learning **Rust,Linux**
 
 - 💬 Ask me about **c++,Java, SQL,spring boot and Linux**
 
